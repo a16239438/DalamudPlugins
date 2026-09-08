@@ -14,6 +14,7 @@
       "捕猎",
     ],
     "RepoUrl": "https://github.com/a16239438/DalamudPlugins",
+    "IconUrl": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Pawprint/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Pawprint/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Pawprint/latest.zip",
     "LoadRequiredState": 0,
