@@ -3,7 +3,7 @@
     "Author": "RyougiS",
     "Name": "Pawprint",
     "InternalName": "Pawprint",
-    "AssemblyVersion": "0.3.13.0",
+    "AssemblyVersion": "0.3.14.0",
     "Description": "驯兽师自动化捕获魔物",
     "Punchline": "驯兽师自动化捕获魔物",
     "ApplicableVersion": "any",
@@ -11,7 +11,6 @@
     "Tags": [
       "Beastmaster",
       "驯兽师",
-      "捕猎",
     ],
     "RepoUrl": "https://github.com/a16239438/DalamudPlugins",
     "IconUrl": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Pawprint/icon.png",
