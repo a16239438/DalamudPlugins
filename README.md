@@ -1,0 +1,2 @@
+# DalamudPlugins
+RyougiMio DalamudPlugins
