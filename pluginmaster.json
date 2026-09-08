@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "RyougiS",
+    "Name": "Pawprint",
+    "InternalName": "Pawprint",
+    "AssemblyVersion": "0.3.11.0",
+    "Description": "驯兽师自动化捕获魔物",
+    "Punchline": "驯兽师自动化捕获魔物",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "Tags": [
+      "Beastmaster",
+      "驯兽师",
+      "捕猎",
+    ],
+    "RepoUrl": "https://github.com/a16239438/DalamudPlugins",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Beastmaster/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Beastmaster/latest.zip",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true
+  }
+]
